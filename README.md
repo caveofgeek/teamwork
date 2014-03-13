@@ -13,4 +13,4 @@ https://github.com/nvie/gitflow/wiki/Windows <br>
 <h2>ลิ้งห์ การทำงานของ git flow</h2>
 http://danielkummer.github.io/git-flow-cheatsheet/ 
 
-Warit Krub hahahaha
+Warit Krub
