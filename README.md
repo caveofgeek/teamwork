@@ -15,4 +15,4 @@ http://danielkummer.github.io/git-flow-cheatsheet/
 
 
 
-Jirayut Krubb
+Preaw Krubb
